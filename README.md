@@ -1,4 +1,4 @@
-# 2020_VolumeChallenge
+# 2020_FBT
 
 ## Scripts
 **identify_patientstays:** Collect general information about a patient stay including exclusion criteria  
